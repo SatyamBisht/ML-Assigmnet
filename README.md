@@ -1,4 +1,4 @@
-# ML-Assigmnet
+# ML-Assignment
 # Linear Regression from Scratch
 
 This project implements a simple linear regression model using gradient descent from scratch in Python. The implementation includes batch gradient descent, stochastic gradient descent, and mini-batch gradient descent.
